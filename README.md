@@ -65,6 +65,6 @@ noxstride-ecommerce/
 
 Desenvolver uma experiência de e-commerce moderna e responsiva, aplicando boas práticas de **desenvolvimento Front-End, UI/UX, organização de código e performance**.
 
-## Desenvolvido por
+---
 
-**Gustavo Leal — Full Stack Developer**
+### Desenvolvido por Gustavo Leal — Full Stack Developer
