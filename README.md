@@ -1,27 +1,29 @@
 # NoxStride E-commerce
 
-**NoxStride** is a modern, responsive e-commerce web application focused on high-quality sportswear and sneakers. Built with clean HTML, modular CSS, and vanilla JavaScript, this project demonstrates advanced front-end skills, UI/UX design, and code organization.
+E-commerce responsivo desenvolvido com foco em **experiência do usuário, performance, responsividade e organização de código**. O projeto apresenta um catálogo de produtos esportivos e sneakers, com navegação interativa, filtros, busca e gerenciamento de carrinho.
 
-##  Features
+## Funcionalidades
 
-- **Responsive Design:** Fully adaptive layout for desktop and mobile, using CSS Grid and Flexbox.
-- **Modern UI:** Clean, attractive interface with custom hero sections, product grids, and interactive cards.
-- **Product Catalog:** Dynamic product listing with filtering and search capabilities.
-- **Shopping Cart:** Add/remove products, quantity management, and persistent cart using `localStorage`.
-- **Accessible Navigation:** Keyboard-friendly navigation and semantic HTML.
-- **Custom Components:** Modular CSS for header, hero, product categories, grid, and footer.
-- **Performance:** Optimized images (AVIF, SVG), minimal dependencies, and fast load times.
+* Interface responsiva para desktop, tablet e dispositivos móveis
+* Catálogo de produtos com busca e filtros
+* Carrinho de compras com adição, remoção e controle de quantidade
+* Persistência do carrinho utilizando `localStorage`
+* Seções de destaque e cards interativos
+* Navegação com HTML semântico e práticas de acessibilidade
+* Imagens otimizadas nos formatos AVIF e SVG
 
-##  Tech Stack
+## Tecnologias
 
-- **HTML5** — Semantic, SEO-friendly structure
-- **CSS3** — Modular architecture, custom variables, reset, and responsive utilities
-- **JavaScript (ES6+)** — Vanilla JS for interactivity and state management
-- **No frameworks required** — Lightweight and easy to deploy
+* **HTML5** — Estrutura semântica e acessível
+* **CSS3** — Layout responsivo, Flexbox, Grid e arquitetura modular
+* **JavaScript (ES6+)** — Interatividade, lógica de produtos e gerenciamento do carrinho
+* **LocalStorage** — Persistência dos dados do carrinho
 
-## Project Structure
+## Arquitetura
 
-```
+O projeto utiliza uma estrutura modular para facilitar a organização e manutenção do código, separando estilos por componentes e responsabilidades.
+
+```text
 noxstride-ecommerce/
 │
 ├── index.html
@@ -44,28 +46,25 @@ noxstride-ecommerce/
 │   ├── products/
 │   └── vitrine/
 └── shopall/
-	├── app.js
-	├── store.html
-	└── style.css
+    ├── app.js
+    ├── store.html
+    └── style.css
 ```
 
+## Destaques Técnicos
 
-## Code Highlights
+* Arquitetura CSS modular e organizada por componentes
+* Desenvolvimento responsivo utilizando CSS Grid e Flexbox
+* JavaScript estruturado para gerenciamento de produtos e carrinho
+* Persistência de dados com `localStorage`
+* HTML semântico com foco em acessibilidade
+* Otimização de imagens para melhorar o carregamento
+* Estrutura leve, sem dependências externas ou frameworks
 
-- **Component-based CSS:** Each section (header, hero, grid, etc.) has its own stylesheet for maintainability.
-- **Clean JavaScript:** All cart and product logic is handled with readable, well-structured functions.
-- **Accessibility:** Uses semantic tags and ARIA-friendly patterns.
-- **Performance:** Uses AVIF and SVG for images, lazy loading, and minimal external dependencies.
+## Objetivo do Projeto
 
-##  What You'll Learn
+Desenvolver uma experiência de e-commerce moderna e responsiva, aplicando boas práticas de **desenvolvimento Front-End, UI/UX, organização de código e performance**.
 
-- How to structure a scalable front-end project
-- Advanced CSS techniques for layout and effects
-- Building a shopping cart from scratch with vanilla JS
-- Best practices for code organization and maintainability
+## Desenvolvido por
 
-## Developed by Gustavo Leal
-
-
-
-
+**Gustavo Leal — Full Stack Developer**
