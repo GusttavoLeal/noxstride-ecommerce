@@ -67,4 +67,6 @@ Desenvolver uma experiência de e-commerce moderna e responsiva, aplicando boas 
 
 ---
 
-### Desenvolvido por Gustavo Leal — Full Stack Developer
+<p align="center">
+  <strong><big>Desenvolvido por Gustavo Leal — Full Stack Developer</big></strong>
+</p>
